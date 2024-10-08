@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\HelloWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A075F0BD-B525-4D34-AFBA-1E6BECC7936F}|HelloWord\\HelloWord.csproj|c:\\users\\shu\\desktop\\113_1_c#\\113-09-24\\helloword\\helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A075F0BD-B525-4D34-AFBA-1E6BECC7936F}|HelloWord\\HelloWord.csproj|solutionrelative:helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A075F0BD-B525-4D34-AFBA-1E6BECC7936F}|HelloWord\\HelloWord.csproj|c:\\users\\shu\\desktop\\113_1_c#\\113-09-24\\helloword\\helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A075F0BD-B525-4D34-AFBA-1E6BECC7936F}|HelloWord\\HelloWord.csproj|solutionrelative:helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\HelloWord\\HelloWord\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWord\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\HelloWord\\HelloWord\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "HelloWord\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:44:07.309Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\HelloWord\\HelloWord\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWord\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\HelloWord\\HelloWord\\Form1.cs*",
+              "RelativeToolTip": "HelloWord\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:40:02.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-01\\PictureBoxDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2348D3D9-D740-4E49-B6DE-AECC55FD4B91}|PictureBoxDemo\\PictureBoxDemo.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-10-01\\pictureboxdemo\\pictureboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2348D3D9-D740-4E49-B6DE-AECC55FD4B91}|PictureBoxDemo\\PictureBoxDemo.csproj|solutionrelative:pictureboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348D3D9-D740-4E49-B6DE-AECC55FD4B91}|PictureBoxDemo\\PictureBoxDemo.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-10-01\\pictureboxdemo\\pictureboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348D3D9-D740-4E49-B6DE-AECC55FD4B91}|PictureBoxDemo\\PictureBoxDemo.csproj|solutionrelative:pictureboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-01\\PictureBoxDemo\\PictureBoxDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "PictureBoxDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-01\\PictureBoxDemo\\PictureBoxDemo\\Form1.cs*",
+              "RelativeToolTip": "PictureBoxDemo\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:54:25.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-01\\PictureBoxDemo\\PictureBoxDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "PictureBoxDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-01\\PictureBoxDemo\\PictureBoxDemo\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "PictureBoxDemo\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:47:06.676Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\bin\Debug\net8.0-windows\PictureBoxDemo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\bin\Debug\net8.0-windows\PictureBoxDemo.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\bin\Debug\net8.0-windows\PictureBoxDemo.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\bin\Debug\net8.0-windows\PictureBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\bin\Debug\net8.0-windows\PictureBoxDemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\refint\PictureBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\PictureBoxDemo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\PictureBoxDemo\PictureBoxDemo\obj\Debug\net8.0-windows\ref\PictureBoxDemo.dll
