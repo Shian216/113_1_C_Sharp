@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\HW1\HW1\HW1\obj\Debug\HW1.pdb

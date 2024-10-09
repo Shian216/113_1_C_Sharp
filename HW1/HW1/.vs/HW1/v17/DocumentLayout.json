@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09B6966-69E6-418E-A0DC-52C750316059}|HW1\\HW1.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\hw1\\hw1\\hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E09B6966-69E6-418E-A0DC-52C750316059}|HW1\\HW1.csproj|solutionrelative:hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09B6966-69E6-418E-A0DC-52C750316059}|HW1\\HW1.csproj|C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09B6966-69E6-418E-A0DC-52C750316059}|HW1\\HW1.csproj|solutionrelative:hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\HW1\\Form1.cs",
+              "RelativeDocumentMoniker": "HW1\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\HW1\\Form1.cs",
+              "RelativeToolTip": "HW1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:55:14.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\HW1\\Form1.cs",
+              "RelativeDocumentMoniker": "HW1\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\HW1\\HW1\\HW1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "HW1\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:31:15.441Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
