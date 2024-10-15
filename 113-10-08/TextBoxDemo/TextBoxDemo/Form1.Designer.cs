@@ -40,7 +40,7 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("微軟正黑體", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label1.Location = new System.Drawing.Point(117, 90);
+            this.label1.Location = new System.Drawing.Point(117, 88);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(260, 41);
             this.label1.TabIndex = 0;
@@ -104,7 +104,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(657, 450);
+            this.ClientSize = new System.Drawing.Size(791, 450);
             this.Controls.Add(this.lblShow);
             this.Controls.Add(this.btnConfirm);
             this.Controls.Add(this.txtLastName);

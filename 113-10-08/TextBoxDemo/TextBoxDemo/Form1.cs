@@ -19,7 +19,7 @@ namespace TextBoxDemo
 
         private void btnConfirm_Click(object sender, EventArgs e)
         {
-            string fullName;
+            string fullName; //變數一定要先宣告型態後，才可以使用
             string firstName;
             string lastName;
 
