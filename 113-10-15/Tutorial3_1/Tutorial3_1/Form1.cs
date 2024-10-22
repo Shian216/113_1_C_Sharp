@@ -19,7 +19,7 @@ namespace Tutorial3_1
 
         private void btnShowDate_Click(object sender, EventArgs e)
         {
-            string output;
+            string output; //變數宣告
 
             output = "民國" + txtYear.Text + "年" + txtMonth.Text + "月" + txtDay.Text + "日" + "星期" +  txtDayOfWeek.Text;
 
