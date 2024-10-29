@@ -36,6 +36,7 @@
             this.exitButton = new System.Windows.Forms.Button();
             this.totalLabel = new System.Windows.Forms.Label();
             this.outputDescription = new System.Windows.Forms.Label();
+            this.ResetButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fiveCentsPictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tenCentsPictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.twentyFiveCentsPictureBox)).BeginInit();
@@ -46,16 +47,16 @@
             // 
             this.instructionLabel.AutoSize = true;
             this.instructionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.instructionLabel.Location = new System.Drawing.Point(150, 9);
+            this.instructionLabel.Location = new System.Drawing.Point(150, 8);
             this.instructionLabel.Name = "instructionLabel";
-            this.instructionLabel.Size = new System.Drawing.Size(110, 16);
+            this.instructionLabel.Size = new System.Drawing.Size(109, 16);
             this.instructionLabel.TabIndex = 0;
             this.instructionLabel.Text = "Click the Coins";
             // 
             // fiveCentsPictureBox
             // 
             this.fiveCentsPictureBox.Image = global::Change_Counter.Properties.Resources._5cents;
-            this.fiveCentsPictureBox.Location = new System.Drawing.Point(12, 37);
+            this.fiveCentsPictureBox.Location = new System.Drawing.Point(12, 34);
             this.fiveCentsPictureBox.Name = "fiveCentsPictureBox";
             this.fiveCentsPictureBox.Size = new System.Drawing.Size(125, 181);
             this.fiveCentsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -66,7 +67,7 @@
             // tenCentsPictureBox
             // 
             this.tenCentsPictureBox.Image = global::Change_Counter.Properties.Resources._10cents;
-            this.tenCentsPictureBox.Location = new System.Drawing.Point(144, 37);
+            this.tenCentsPictureBox.Location = new System.Drawing.Point(144, 34);
             this.tenCentsPictureBox.Name = "tenCentsPictureBox";
             this.tenCentsPictureBox.Size = new System.Drawing.Size(125, 181);
             this.tenCentsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -77,7 +78,7 @@
             // twentyFiveCentsPictureBox
             // 
             this.twentyFiveCentsPictureBox.Image = global::Change_Counter.Properties.Resources._25cents;
-            this.twentyFiveCentsPictureBox.Location = new System.Drawing.Point(12, 224);
+            this.twentyFiveCentsPictureBox.Location = new System.Drawing.Point(12, 207);
             this.twentyFiveCentsPictureBox.Name = "twentyFiveCentsPictureBox";
             this.twentyFiveCentsPictureBox.Size = new System.Drawing.Size(125, 181);
             this.twentyFiveCentsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -88,7 +89,7 @@
             // fiftyCentsPictureBox
             // 
             this.fiftyCentsPictureBox.Image = global::Change_Counter.Properties.Resources._50cents;
-            this.fiftyCentsPictureBox.Location = new System.Drawing.Point(144, 224);
+            this.fiftyCentsPictureBox.Location = new System.Drawing.Point(144, 207);
             this.fiftyCentsPictureBox.Name = "fiftyCentsPictureBox";
             this.fiftyCentsPictureBox.Size = new System.Drawing.Size(125, 181);
             this.fiftyCentsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -98,9 +99,9 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(180, 430);
+            this.exitButton.Location = new System.Drawing.Point(180, 397);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.Size = new System.Drawing.Size(75, 21);
             this.exitButton.TabIndex = 5;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -109,9 +110,9 @@
             // totalLabel
             // 
             this.totalLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.totalLabel.Location = new System.Drawing.Point(291, 206);
+            this.totalLabel.Location = new System.Drawing.Point(291, 190);
             this.totalLabel.Name = "totalLabel";
-            this.totalLabel.Size = new System.Drawing.Size(100, 23);
+            this.totalLabel.Size = new System.Drawing.Size(100, 21);
             this.totalLabel.TabIndex = 6;
             this.totalLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -119,17 +120,28 @@
             // 
             this.outputDescription.AutoSize = true;
             this.outputDescription.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outputDescription.Location = new System.Drawing.Point(319, 179);
+            this.outputDescription.Location = new System.Drawing.Point(319, 165);
             this.outputDescription.Name = "outputDescription";
-            this.outputDescription.Size = new System.Drawing.Size(44, 16);
+            this.outputDescription.Size = new System.Drawing.Size(43, 16);
             this.outputDescription.TabIndex = 7;
             this.outputDescription.Text = "Total";
             // 
+            // ResetButton
+            // 
+            this.ResetButton.Location = new System.Drawing.Point(291, 394);
+            this.ResetButton.Name = "ResetButton";
+            this.ResetButton.Size = new System.Drawing.Size(75, 23);
+            this.ResetButton.TabIndex = 8;
+            this.ResetButton.Text = "Reset";
+            this.ResetButton.UseVisualStyleBackColor = true;
+            this.ResetButton.Click += new System.EventHandler(this.ResetButton_Click);
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(410, 465);
+            this.ClientSize = new System.Drawing.Size(410, 429);
+            this.Controls.Add(this.ResetButton);
             this.Controls.Add(this.outputDescription);
             this.Controls.Add(this.totalLabel);
             this.Controls.Add(this.exitButton);
@@ -159,6 +171,7 @@
         private System.Windows.Forms.Button exitButton;
         private System.Windows.Forms.Label totalLabel;
         private System.Windows.Forms.Label outputDescription;
+        private System.Windows.Forms.Button ResetButton;
     }
 }
 

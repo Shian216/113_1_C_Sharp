@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GroupBoxDemo/1.0.0": {
+        "runtime": {
+          "GroupBoxDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupBoxDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

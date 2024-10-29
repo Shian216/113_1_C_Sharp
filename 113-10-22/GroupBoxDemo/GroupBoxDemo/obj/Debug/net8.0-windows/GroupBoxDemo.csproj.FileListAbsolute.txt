@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\bin\Debug\net8.0-windows\GroupBoxDemo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\bin\Debug\net8.0-windows\GroupBoxDemo.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\bin\Debug\net8.0-windows\GroupBoxDemo.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\bin\Debug\net8.0-windows\GroupBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\bin\Debug\net8.0-windows\GroupBoxDemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\refint\GroupBoxDemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\GroupBoxDemo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\GroupBoxDemo\GroupBoxDemo\obj\Debug\net8.0-windows\ref\GroupBoxDemo.dll

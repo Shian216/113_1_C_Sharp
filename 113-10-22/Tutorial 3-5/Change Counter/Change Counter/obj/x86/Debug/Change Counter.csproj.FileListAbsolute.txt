@@ -24,3 +24,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Ch
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.Cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb

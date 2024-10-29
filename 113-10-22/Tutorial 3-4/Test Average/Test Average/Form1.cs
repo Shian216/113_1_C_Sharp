@@ -17,6 +17,9 @@ namespace Test_Average
             InitializeComponent();
         }
 
-        
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
