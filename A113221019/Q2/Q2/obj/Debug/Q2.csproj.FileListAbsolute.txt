@@ -1,0 +1,6 @@
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Program3_10.Form1.resources
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A113221019\Q2\Q2\obj\Debug\Program3_10.Form.resources

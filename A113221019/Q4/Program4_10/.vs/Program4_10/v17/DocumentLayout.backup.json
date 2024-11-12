@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\LectureNotes\\Programming\\Visual C#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\Program4_10\\Program4_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C57C07-BC32-42DD-B67C-2529215FFCAE}|Program4_10.csproj|k:\\lecturenotes\\programming\\visual c#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\program4_10\\program4_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C57C07-BC32-42DD-B67C-2529215FFCAE}|Program4_10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C57C07-BC32-42DD-B67C-2529215FFCAE}|Program4_10.csproj|k:\\lecturenotes\\programming\\visual c#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\program4_10\\program4_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05C57C07-BC32-42DD-B67C-2529215FFCAE}|Program4_10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "K:\\LectureNotes\\Programming\\Visual C#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\Program4_10\\Program4_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "K:\\LectureNotes\\Programming\\Visual C#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\Program4_10\\Program4_10\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:12:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "K:\\LectureNotes\\Programming\\Visual C#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\Program4_10\\Program4_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "K:\\LectureNotes\\Programming\\Visual C#\\113\u8A66\u984C\\\u4E0A\u5B78\u671F\\\u671F\u4E2D\\\u89E3\u7B54\\Program4_10\\Program4_10\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:08:26.717Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

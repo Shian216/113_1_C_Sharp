@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\bin\Debug\chp4_prob7.exe.config
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\bin\Debug\chp4_prob7.exe
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\bin\Debug\chp4_prob7.pdb
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\Q3.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\chp4_prob7.Form1.resources
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\chp4_prob7.Properties.Resources.resources
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\Q3.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\chp4_prob7.exe
+C:\Users\shu\Desktop\A113221019\Q3\chp4_prob7\obj\x86\Debug\chp4_prob7.pdb

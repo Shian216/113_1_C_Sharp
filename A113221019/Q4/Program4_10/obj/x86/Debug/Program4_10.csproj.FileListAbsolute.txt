@@ -1,0 +1,29 @@
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\Program4_10.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\Program4_10.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\bin\Debug\Program4_10.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\bin\Debug\Program4_10.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\Program4_10.exe
+C:\Users\user\AppData\Local\Temporary Projects\Program4_10\obj\x86\Debug\Program4_10.pdb
+C:\ttt\csharp\Program4_10\Program4_10\obj\x86\Debug\Program4_10.exe
+C:\ttt\csharp\Program4_10\Program4_10\obj\x86\Debug\Program4_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\bin\Debug\Program4_10.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\bin\Debug\Program4_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter04\Program4_10\Program4_10\obj\x86\Debug\Program4_10.csproj.GenerateResource.Cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\bin\Debug\Program4_10.exe.config
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\bin\Debug\Program4_10.exe
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\bin\Debug\Program4_10.pdb
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.csproj.AssemblyReference.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.Form1.resources
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.Properties.Resources.resources
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.csproj.GenerateResource.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.csproj.CoreCompileInputs.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.exe
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_10\Program4_10\obj\x86\Debug\Program4_10.pdb

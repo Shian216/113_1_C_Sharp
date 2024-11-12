@@ -1,0 +1,17 @@
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\bin\Debug\chp4_prob7.exe
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\bin\Debug\chp4_prob7.pdb
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\obj\x86\Debug\chp4_prob7.Form1.resources
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\obj\x86\Debug\chp4_prob7.Properties.Resources.resources
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\obj\x86\Debug\chp4_prob7.csproj.GenerateResource.Cache
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\obj\x86\Debug\chp4_prob7.exe
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp4_prob7\obj\x86\Debug\chp4_prob7.pdb
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\bin\Debug\chp4_prob7.exe.config
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\bin\Debug\chp4_prob7.exe
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\bin\Debug\chp4_prob7.pdb
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.csproj.AssemblyReference.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.Form1.resources
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.Properties.Resources.resources
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.csproj.GenerateResource.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.csproj.CoreCompileInputs.cache
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.exe
+K:\LectureNotes\Programming\Visual C#\113試題\上學期\期中\解答\Program4_7\chp4_prob7\obj\x86\Debug\chp4_prob7.pdb
