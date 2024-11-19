@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\bin\Debug\Program4_10.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\bin\Debug\Program4_10.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\bin\Debug\Program4_10.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Program4_10.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Program4_10.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Q4.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Program4_10.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\A113221019期中考\Q4\Program4_10\obj\x86\Debug\Program4_10.pdb
