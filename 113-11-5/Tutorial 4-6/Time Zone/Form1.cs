@@ -19,12 +19,7 @@ namespace Time_Zone
 
         private void okButton_Click(object sender, EventArgs e)
         {
-            string city;
-
-            if(cityListBox.S)
-            {
-
-            }
+           
         }
 
         private void exitButton_Click(object sender, EventArgs e)
