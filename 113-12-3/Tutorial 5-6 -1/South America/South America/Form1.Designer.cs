@@ -1,6 +1,6 @@
 ﻿namespace South_America
 {
-    partial class Form1
+    partial class openFile
     {
         /// <summary>
         /// 必需的設計器變數。
@@ -36,26 +36,27 @@
             // countriesListBox
             // 
             this.countriesListBox.FormattingEnabled = true;
-            this.countriesListBox.Location = new System.Drawing.Point(37, 36);
+            this.countriesListBox.ItemHeight = 12;
+            this.countriesListBox.Location = new System.Drawing.Point(37, 33);
             this.countriesListBox.Name = "countriesListBox";
-            this.countriesListBox.Size = new System.Drawing.Size(171, 95);
+            this.countriesListBox.Size = new System.Drawing.Size(171, 88);
             this.countriesListBox.TabIndex = 0;
             // 
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.AutoSize = true;
             this.outputDescriptionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(9, 9);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(9, 8);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(157, 16);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(103, 16);
             this.outputDescriptionLabel.TabIndex = 1;
             this.outputDescriptionLabel.Text = "南美洲的國家";
             // 
             // getCountriesButton
             // 
-            this.getCountriesButton.Location = new System.Drawing.Point(49, 150);
+            this.getCountriesButton.Location = new System.Drawing.Point(49, 138);
             this.getCountriesButton.Name = "getCountriesButton";
-            this.getCountriesButton.Size = new System.Drawing.Size(75, 39);
+            this.getCountriesButton.Size = new System.Drawing.Size(75, 36);
             this.getCountriesButton.TabIndex = 2;
             this.getCountriesButton.Text = "取得國家";
             this.getCountriesButton.UseVisualStyleBackColor = true;
@@ -63,24 +64,24 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(130, 150);
+            this.exitButton.Location = new System.Drawing.Point(130, 138);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 39);
+            this.exitButton.Size = new System.Drawing.Size(75, 36);
             this.exitButton.TabIndex = 3;
             this.exitButton.Text = "退出";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
-            // Form1
+            // openFile
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(255, 206);
+            this.ClientSize = new System.Drawing.Size(255, 190);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getCountriesButton);
             this.Controls.Add(this.outputDescriptionLabel);
             this.Controls.Add(this.countriesListBox);
-            this.Name = "Form1";
+            this.Name = "openFile";
             this.Text = "南美洲";
             this.ResumeLayout(false);
             this.PerformLayout();

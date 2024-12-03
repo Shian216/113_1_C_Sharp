@@ -92,6 +92,7 @@
         private System.Windows.Forms.TextBox nameTextBox;
         private System.Windows.Forms.Button writeNameButton;
         private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.OpenFileDialog openFile;
     }
 }
 

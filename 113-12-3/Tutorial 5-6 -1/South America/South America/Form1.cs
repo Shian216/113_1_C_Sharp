@@ -11,9 +11,9 @@ using System.IO;
 
 namespace South_America
 {
-    public partial class Form1 : Form
+    public partial class openFile : Form
     {
-        public Form1()
+        public openFile()
         {
             InitializeComponent();
         }

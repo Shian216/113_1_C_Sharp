@@ -61,3 +61,10 @@ C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6\South America\South Ame
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
 C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South America.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South_America.openFile.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-3\Tutorial 5-6 -1\South America\South America\obj\x86\Debug\South America.pdb
