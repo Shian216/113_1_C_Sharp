@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,7 +38,8 @@
               "RelativeToolTip": "Friend File\\Form1.Designer.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:47:37.618Z"
+              "WhenOpened": "2024-11-26T06:47:37.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +49,7 @@
               "RelativeDocumentMoniker": "Friend File\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-11-26\\Tutorial 5-5\\Friend File\\Friend File\\Form1.cs",
               "RelativeToolTip": "Friend File\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T06:46:31.832Z",
               "EditorCaption": ""
@@ -58,7 +63,8 @@
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-11-26\\Tutorial 5-5\\Friend File\\Friend File\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Friend File\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:46:26.841Z"
+              "WhenOpened": "2024-11-26T06:46:26.841Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }
