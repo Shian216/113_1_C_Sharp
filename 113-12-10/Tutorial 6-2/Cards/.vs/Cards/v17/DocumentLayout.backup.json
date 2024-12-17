@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "Cards\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Tutorial 6-2\\Cards\\Cards\\Form1.cs",
               "RelativeToolTip": "Cards\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T03:38:22.737Z",
               "EditorCaption": ""
@@ -50,8 +46,7 @@
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Tutorial 6-2\\Cards\\Cards\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Cards\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T03:38:04.003Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-05-06T03:38:04.003Z"
             }
           ]
         }
