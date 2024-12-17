@@ -20,20 +20,49 @@ namespace Pay_and_Bonus
             InitializeComponent();
         }
 
-        // The InputIsValid method converts the user input and stores
-        // it in the arguments (passed by reference). If the conversion
-        // is successful, the method returns true. Otherwise it returns
-        // false.
-        
-
-        private void calculateButton_Click(object sender, EventArgs e)
+        // The InputIsValid method: 驗證並轉換輸入
+        private bool InputIsValid(ref decimal grossPay, ref decimal bonus)
         {
-           
+            bool isValid = true;
+
+            // 驗證 Gross Pay
+            if (!decimal.TryParse(grossPayTextBox.Text, out grossPay) || grossPay < 0)
+            {
+                isValid = false;
+                MessageBox.Show("請輸入有效的工資金額。", "輸入錯誤");
+            }
+
+            // 驗證 Bonus
+            if (!decimal.TryParse(bonusTextBox.Text, out bonus) || bonus < 0)
+            {
+                isValid = false;
+                MessageBox.Show("請輸入有效的獎金金額。", "輸入錯誤");
+            }
+
+            return isValid;
         }
 
+        // calculateButton 按鈕事件：計算獎金與總額
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+            decimal grossPay = 0m;  // 工資
+            decimal bonus = 0m;     // 獎金
+            decimal contribution = 0m;  // 公司提撥額
+
+            // 驗證輸入
+            if (InputIsValid(ref grossPay, ref bonus))
+            {
+                // 計算公司提撥額
+                contribution = (grossPay + bonus) * CONTRIB_RATE;
+
+                // 顯示結果
+                contributionLabel.Text = $"公司提撥額: {contribution:C}";
+            }
+        }
+
+        // exitButton 按鈕事件：關閉視窗
         private void exitButton_Click(object sender, EventArgs e)
         {
-            // Close the form.
             this.Close();
         }
     }

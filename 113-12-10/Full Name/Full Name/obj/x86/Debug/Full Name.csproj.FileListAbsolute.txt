@@ -21,3 +21,13 @@ C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full
 C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
 C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
 C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.GenerateResource.Cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\bin\Debug\Full Name.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\bin\Debug\Full Name.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\bin\Debug\Full Name.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full Name.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-12-10\Full Name\Full Name\obj\x86\Debug\Full Name.pdb

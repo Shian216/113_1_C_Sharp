@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Full Name\\",
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|c:\\users\\user\\source\\repos\\ch6 tutorial\\full name\\full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|solutionrelative:full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|solutionrelative:full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|c:\\users\\user\\source\\repos\\ch6 tutorial\\full name\\full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|solutionrelative:full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp\\113-12-10\\full name\\full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ED4FBBB-E5FA-4B26-B051-0AF9516127A9}|Full Name\\Full Name.csproj|solutionrelative:full name\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Full Name\\Full Name\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\Full Name\\Form1.cs",
               "RelativeDocumentMoniker": "Full Name\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Full Name\\Full Name\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\Full Name\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Full Name\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T05:46:45.669Z",
@@ -34,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Full Name\\Full Name\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\Full Name\\Form1.cs",
               "RelativeDocumentMoniker": "Full Name\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Full Name\\Full Name\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-12-10\\Full Name\\Full Name\\Form1.cs",
               "RelativeToolTip": "Full Name\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T05:46:03.837Z",
               "EditorCaption": ""
